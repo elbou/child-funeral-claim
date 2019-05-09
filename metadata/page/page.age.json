@@ -1,0 +1,39 @@
+{
+  "_id": "page.age",
+  "_type": "page.form",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.age--number.auto_name__5",
+      "_type": "number",
+      "hint": "In years",
+      "label": "Age",
+      "name": "auto_name__5",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "2"
+    },
+    {
+      "_id": "page.age--content",
+      "_type": "content",
+      "html": "Alternatively, if the child was stillborn, what is the gestational age at delivery stated on the certificate for burial or cremation?"
+    },
+    {
+      "_id": "page.age--number.auto_name__6",
+      "_type": "number",
+      "hint": "In weeks",
+      "label": "Gestational age at delivery",
+      "name": "auto_name__6",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "2"
+    }
+  ],
+  "heading": "Enter the deceased’s age",
+  "url": "age"
+}

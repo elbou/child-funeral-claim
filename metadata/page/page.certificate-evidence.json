@@ -1,0 +1,14 @@
+{
+  "_id": "page.certificate-evidence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.certificate-evidence--fileupload.auto_name__12",
+      "_type": "fileupload",
+      "hint": "Accepted formats .pdf, .png or .jpg\r\nMaximum size: 10MB per file",
+      "label": "Please provide a scanned copy of the certificate for burial or cremation",
+      "name": "auto_name__12"
+    }
+  ],
+  "url": "certificate-evidence"
+}

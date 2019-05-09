@@ -1,0 +1,28 @@
+{
+  "_id": "page.claimer-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.claimer-details--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.claimer-details--fieldset--text.auto_name__15",
+          "_type": "text",
+          "label": "Representative name",
+          "name": "auto_name__15",
+          "widthClassInput": "three-quarters"
+        },
+        {
+          "_id": "page.claimer-details--fieldset--text.auto_name__16",
+          "_type": "text",
+          "label": "Representative reference number",
+          "name": "auto_name__16",
+          "widthClassInput": "10"
+        }
+      ],
+      "legend": "Representative details"
+    }
+  ],
+  "url": "claimer-details"
+}

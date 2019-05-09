@@ -1,0 +1,20 @@
+{
+  "_id": "page.death-certificate",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.death-certificate--text.auto_name__1",
+      "_type": "text",
+      "hint": "For example: DIS XX / 123456",
+      "label": "Please, enter the registration number available on the death certificate for burial or cremation.",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.death-certificate--inset",
+      "_type": "inset",
+      "html": "## What is a death certificate and where do I find it?\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ],
+  "heading": "Death Certificate Registration Number",
+  "url": "death-certificate"
+}

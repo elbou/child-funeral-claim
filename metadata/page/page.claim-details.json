@@ -1,0 +1,37 @@
+{
+  "_id": "page.claim-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.claim-details--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.claim-details--fieldset--text.auto_name__13",
+          "_type": "text",
+          "label": "Item",
+          "name": "auto_name__13"
+        },
+        {
+          "_id": "page.claim-details--fieldset--number.auto_name__14",
+          "_type": "number",
+          "hint": "Enter £1500.50 as 1500.50",
+          "label": "Amount",
+          "name": "auto_name__14"
+        },
+        {
+          "_id": "page.claim-details--fieldset--fileupload.auto_name__17",
+          "_type": "fileupload",
+          "hint": "Accepted formats .pdf, .png or .jpg \r\nMaximum size: 10MB per file",
+          "label": "Please provide a copy of the fees schedule or any other document that shows the price of the item as currently charged by your organisation",
+          "name": "auto_name__17"
+        }
+      ],
+      "legend": "Claim",
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableHeading": "Claim details"
+    }
+  ],
+  "url": "claim-details"
+}

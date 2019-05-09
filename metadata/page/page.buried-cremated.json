@@ -1,0 +1,27 @@
+{
+  "_id": "page.buried-cremated",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.buried-cremated--radios.auto_name__7",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.buried-cremated--radios.auto_name__7--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Buried",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.buried-cremated--radios.auto_name__7--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Cremated",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Was the deceased buried or cremated?",
+      "name": "auto_name__7"
+    }
+  ],
+  "url": "buried-cremated"
+}

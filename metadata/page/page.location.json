@@ -1,0 +1,42 @@
+{
+  "_id": "page.location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.location--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.location--fieldset--text.auto_name__8",
+          "_type": "text",
+          "label": "Address",
+          "name": "auto_name__8",
+          "widthClassInput": "one-half"
+        },
+        {
+          "_id": "page.location--fieldset--text.auto_name__9",
+          "_type": "text",
+          "label": "Town",
+          "name": "auto_name__9",
+          "widthClassInput": "one-half"
+        },
+        {
+          "_id": "page.location--fieldset--text.auto_name__10",
+          "_type": "text",
+          "label": "Postcode",
+          "name": "auto_name__10",
+          "widthClassInput": "10"
+        },
+        {
+          "_id": "page.location--fieldset--text.auto_name__11",
+          "_type": "text",
+          "label": "Country",
+          "name": "auto_name__11",
+          "widthClassInput": "one-third"
+        }
+      ],
+      "legend": "Where was the deceased buried or cremated?"
+    }
+  ],
+  "url": "location"
+}

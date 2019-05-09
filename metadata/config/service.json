@@ -1,7 +1,10 @@
 {
   "_id": "service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "code": "CFF01",
+  "name": "Child Funeral Claim",
+  "pdfHeading": "Child Funeral Fund",
+  "pdfSubHeading": "Child Funeral Fund Claim Form (England)",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }
